@@ -1,3 +1,11 @@
+##########
+Chris:
+Just for Testing !!!
+1) Changed IRC-Seed Channel Name from eMark00 to eMarkXDM00
+2) So, dont' use "addnode=..:" from below
+##########
+
+
 TestCoin - Deutsche eMark [XDM]
 
 SHA256D, Proof of Work+Proof of Stake
